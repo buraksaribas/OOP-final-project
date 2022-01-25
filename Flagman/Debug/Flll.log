@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\Burak\Desktop\Flll\Player.h(64,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Burak\Desktop\Flll\Country.h(34,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Burak\Desktop\Flll\Country.h(85,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Burak\Desktop\Flll\Country.h(114,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Burak\Desktop\Flll\Country.h(148,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Burak\Desktop\Flll\Game.h(36,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Burak\Desktop\Flll\Game.h(197,23): warning C4018: '<': signed/unsigned mismatch
+  Flll.vcxproj -> C:\Users\Burak\Desktop\Flll\Debug\Flll.exe

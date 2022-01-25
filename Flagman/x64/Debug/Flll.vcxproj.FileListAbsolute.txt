@@ -1,0 +1,6 @@
+C:\Users\Burak\Desktop\Flll\x64\Debug\Flll.exe
+C:\Users\Burak\Desktop\Flll\x64\Debug\Flll.pdb
+C:\Users\Burak\Desktop\Flagman\x64\Debug\Flll.exe
+C:\Users\Burak\Desktop\Flagman\x64\Debug\Flll.pdb
+C:\Users\Burak\Desktop\20040301051_Burak_Saribas\Flagman\x64\Debug\Flll.exe
+C:\Users\Burak\Desktop\20040301051_Burak_Saribas\Flagman\x64\Debug\Flll.pdb

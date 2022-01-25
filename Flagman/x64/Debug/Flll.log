@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\Burak\Desktop\20040301051_Burak_Saribas\Flagman\Game.h(170,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Burak\Desktop\20040301051_Burak_Saribas\Flagman\Game.h(172,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Burak\Desktop\20040301051_Burak_Saribas\Flagman\Game.h(174,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Burak\Desktop\20040301051_Burak_Saribas\Flagman\Game.h(176,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Flll.vcxproj -> C:\Users\Burak\Desktop\20040301051_Burak_Saribas\Flagman\x64\Debug\Flll.exe
